@@ -1,0 +1,205 @@
+Author: Austin T. Hetherington
+Date: 2 September 2022
+Description: This is the solution to the State center of mass problem.
+
+
+********************************************************************************
+
+Based on a step degree amount of 1e-05 we have obtained the following results...
+
+---------------SOUTH CAROLINA---------------
+COM:	[33.899990542020525, -80.89238423284806]
+AREA:	80719.7454360585 km^2
+
+********************************************************************************
+
+
+Abbeville county's Center of Mass is located at [34.222438047991055, -82.45876876251599]
+Abbeville county has an approximate surface area of 1323.9454763368565 km^2
+--------------------------------------------------------------------------------
+
+Aiken county's Center of Mass is located at [33.54397684935569, -81.6350066630013]
+Aiken county has an approximate surface area of 2800.575605947001 km^2
+--------------------------------------------------------------------------------
+
+Allendale county's Center of Mass is located at [32.98812996587019, -81.35775548344009]
+Allendale county has an approximate surface area of 1066.1810320921977 km^2
+--------------------------------------------------------------------------------
+
+Anderson county's Center of Mass is located at [34.51893470078235, -82.63787647225793]
+Anderson county has an approximate surface area of 1962.2539408562138 km^2
+--------------------------------------------------------------------------------
+
+Bamberg county's Center of Mass is located at [33.21468598092893, -81.0541592856084]
+Bamberg county has an approximate surface area of 1024.5349090876216 km^2
+--------------------------------------------------------------------------------
+
+Barnwell county's Center of Mass is located at [33.26592283548444, -81.43514323317841]
+Barnwell county has an approximate surface area of 1444.540290062991 km^2
+--------------------------------------------------------------------------------
+
+Beaufort county's Center of Mass is located at [32.38152562257752, -80.72855906010656]
+Beaufort county has an approximate surface area of 1903.1489220717435 km^2
+--------------------------------------------------------------------------------
+
+Berkeley county's Center of Mass is located at [33.19751678037081, -79.95071177544945]
+Berkeley county has an approximate surface area of 3182.205482102334 km^2
+--------------------------------------------------------------------------------
+
+Calhoun county's Center of Mass is located at [33.67480729850689, -80.78020683508802]
+Calhoun county has an approximate surface area of 1016.1949571713944 km^2
+--------------------------------------------------------------------------------
+
+Charleston county's Center of Mass is located at [32.83406256720901, -79.95166723191949]
+Charleston county has an approximate surface area of 2688.1344317270705 km^2
+--------------------------------------------------------------------------------
+
+Cherokee county's Center of Mass is located at [35.048054844347476, -81.62029306103716]
+Cherokee county has an approximate surface area of 1029.1450015299865 km^2
+--------------------------------------------------------------------------------
+
+Chester county's Center of Mass is located at [34.691982261504776, -81.15949682902178]
+Chester county has an approximate surface area of 1518.1496730868585 km^2
+--------------------------------------------------------------------------------
+
+Chesterfield county's Center of Mass is located at [34.63960515591216, -80.1586715260851]
+Chesterfield county has an approximate surface area of 2087.7186907629734 km^2
+--------------------------------------------------------------------------------
+
+Clarendon county's Center of Mass is located at [33.665621477573225, -80.21652548070186]
+Clarendon county has an approximate surface area of 1802.3330823162823 km^2
+--------------------------------------------------------------------------------
+
+Colleton county's Center of Mass is located at [32.86302583810154, -80.6664724206296]
+Colleton county has an approximate surface area of 2789.176753633842 km^2
+--------------------------------------------------------------------------------
+
+Darlington county's Center of Mass is located at [34.33220832264368, -79.95778225150305]
+Darlington county has an approximate surface area of 1468.3768916750487 km^2
+--------------------------------------------------------------------------------
+
+Dillon county's Center of Mass is located at [34.39143226579923, -79.37895489517847]
+Dillon county has an approximate surface area of 1052.776393542723 km^2
+--------------------------------------------------------------------------------
+
+Dorchester county's Center of Mass is located at [33.07940998188558, -80.4053441222607]
+Dorchester county has an approximate surface area of 1494.4428201055541 km^2
+--------------------------------------------------------------------------------
+
+Edgefield county's Center of Mass is located at [33.77217809442454, -81.96660334566401]
+Edgefield county has an approximate surface area of 1312.5481460481924 km^2
+--------------------------------------------------------------------------------
+
+Fairfield county's Center of Mass is located at [34.39498294168071, -81.12123433177537]
+Fairfield county has an approximate surface area of 1839.2150111173964 km^2
+--------------------------------------------------------------------------------
+
+Florence county's Center of Mass is located at [34.024219047967, -79.70280697827899]
+Florence county has an approximate surface area of 2081.9952044636975 km^2
+--------------------------------------------------------------------------------
+
+Georgetown county's Center of Mass is located at [33.43355531577343, -79.3322870829684]
+Georgetown county has an approximate surface area of 2262.7932067597967 km^2
+--------------------------------------------------------------------------------
+
+Greenville county's Center of Mass is located at [34.89392225857998, -82.37049016183319]
+Greenville county has an approximate surface area of 2058.4903728443564 km^2
+--------------------------------------------------------------------------------
+
+Greenwood county's Center of Mass is located at [34.15370879681107, -82.12591529626499]
+Greenwood county has an approximate surface area of 1199.5518196130379 km^2
+--------------------------------------------------------------------------------
+
+Hampton county's Center of Mass is located at [32.77606517226336, -81.1409555502775]
+Hampton county has an approximate surface area of 1459.3467263041248 km^2
+--------------------------------------------------------------------------------
+
+Horry county's Center of Mass is located at [33.92120276630509, -78.99653404214284]
+Horry county has an approximate surface area of 2969.5426989657494 km^2
+--------------------------------------------------------------------------------
+
+Jasper county's Center of Mass is located at [32.435881420799994, -81.0313590923442]
+Jasper county has an approximate surface area of 1745.2305154225714 km^2
+--------------------------------------------------------------------------------
+
+Kershaw county's Center of Mass is located at [34.33856421487738, -80.59037057599114]
+Kershaw county has an approximate surface area of 1917.6018218858649 km^2
+--------------------------------------------------------------------------------
+
+Lancaster county's Center of Mass is located at [34.68650747559366, -80.70534897858806]
+Lancaster county has an approximate surface area of 1438.1386796378868 km^2
+--------------------------------------------------------------------------------
+
+Laurens county's Center of Mass is located at [34.483496986605594, -82.00586454685512]
+Laurens county has an approximate surface area of 1875.4930347892423 km^2
+--------------------------------------------------------------------------------
+
+Lee county's Center of Mass is located at [34.163184809673226, -80.2544896173523]
+Lee county has an approximate surface area of 1065.1769881789164 km^2
+--------------------------------------------------------------------------------
+
+Lexington county's Center of Mass is located at [33.90208624824103, -81.2721273632641]
+Lexington county has an approximate surface area of 1963.3274919203368 km^2
+--------------------------------------------------------------------------------
+
+Mccormick county's Center of Mass is located at [33.89946938033767, -82.30981106413975]
+Mccormick county has an approximate surface area of 1020.0263218348312 km^2
+--------------------------------------------------------------------------------
+
+Marion county's Center of Mass is located at [34.07979830523517, -79.36250203377543]
+Marion county has an approximate surface area of 1279.9381954368373 km^2
+--------------------------------------------------------------------------------
+
+Marlboro county's Center of Mass is located at [34.60178577706964, -79.67854676648788]
+Marlboro county has an approximate surface area of 1257.2499566841702 km^2
+--------------------------------------------------------------------------------
+
+Newberry county's Center of Mass is located at [34.289672214897585, -81.60013761277824]
+Newberry county has an approximate surface area of 1676.8529080587589 km^2
+--------------------------------------------------------------------------------
+
+Oconee county's Center of Mass is located at [34.7534795010039, -83.06594723842646]
+Oconee county has an approximate surface area of 1743.651941416908 km^2
+--------------------------------------------------------------------------------
+
+Orangeburg county's Center of Mass is located at [33.438890503852946, -80.80015012357435]
+Orangeburg county has an approximate surface area of 2923.1398554759317 km^2
+--------------------------------------------------------------------------------
+
+Pickens county's Center of Mass is located at [34.88743769555986, -82.72529735877465]
+Pickens county has an approximate surface area of 1325.806333518709 km^2
+--------------------------------------------------------------------------------
+
+Richland county's Center of Mass is located at [34.021549979401236, -80.90283171211976]
+Richland county has an approximate surface area of 1999.5060577497152 km^2
+--------------------------------------------------------------------------------
+
+Saluda county's Center of Mass is located at [34.00603791008845, -81.72690073113685]
+Saluda county has an approximate surface area of 1196.5290917146613 km^2
+--------------------------------------------------------------------------------
+
+Spartanburg county's Center of Mass is located at [34.93105520757477, -81.99059660526713]
+Spartanburg county has an approximate surface area of 2121.5342119633733 km^2
+--------------------------------------------------------------------------------
+
+Sumter county's Center of Mass is located at [33.91607405885539, -80.38232516411746]
+Sumter county has an approximate surface area of 1767.0325351035135 km^2
+--------------------------------------------------------------------------------
+
+Union county's Center of Mass is located at [34.68909170196565, -81.61936653740001]
+Union county has an approximate surface area of 1336.2949474708005 km^2
+--------------------------------------------------------------------------------
+
+Williamsburg county's Center of Mass is located at [33.619711936210216, -79.72777306082277]
+Williamsburg county has an approximate surface area of 2427.5992238910007 km^2
+--------------------------------------------------------------------------------
+
+York county's Center of Mass is located at [34.974643675822165, -81.18436220225766]
+York county has an approximate surface area of 1802.2977836794323 km^2
+--------------------------------------------------------------------------------
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Code written by Austin T. Hetherington
+ All rights reserved. (2022)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

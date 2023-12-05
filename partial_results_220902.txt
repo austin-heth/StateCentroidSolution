@@ -1,0 +1,911 @@
+
+This will require approximately 50116 checks along the longitude axis
+And approximately 46986 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Abbeville county is 1323.9454748556307 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Abbeville county is 1323.9454778180823 km^2
+
+Abbeville county's Center of Mass is located at [34.222438047991055, -82.45876876251599]
+Abbeville county has an approximate surface area of 1323.9454763368565 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 82531 checks along the longitude axis
+And approximately 67919 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Aiken county is 2800.575552419912 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Aiken county is 2800.5756594740897 km^2
+
+Aiken county's Center of Mass is located at [33.54397684935569, -81.6350066630013]
+Aiken county has an approximate surface area of 2800.575605947001 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 53192 checks along the longitude axis
+And approximately 41341 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Allendale county is 1066.1810501414602 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Allendale county is 1066.181014042935 km^2
+
+Allendale county's Center of Mass is located at [32.98812996587019, -81.35775548344009]
+Allendale county has an approximate surface area of 1066.1810320921977 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 67808 checks along the longitude axis
+And approximately 61061 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Anderson county is 1962.2539507073514 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Anderson county is 1962.2539310050763 km^2
+
+Anderson county's Center of Mass is located at [34.51893470078235, -82.63787647225793]
+Anderson county has an approximate surface area of 1962.2539408562138 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 42989 checks along the longitude axis
+And approximately 41348 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Bamberg county is 1024.5348963760207 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Bamberg county is 1024.5349217992225 km^2
+
+Bamberg county's Center of Mass is located at [33.21468598092893, -81.0541592856084]
+Bamberg county has an approximate surface area of 1024.5349090876216 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 57933 checks along the longitude axis
+And approximately 39746 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Barnwell county is 1444.5402751477307 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Barnwell county is 1444.5403049782515 km^2
+
+Barnwell county's Center of Mass is located at [33.26592283548444, -81.43514323317841]
+Barnwell county has an approximate surface area of 1444.540290062991 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 58705 checks along the longitude axis
+And approximately 62743 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Beaufort county is 1903.1490567740445 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Beaufort county is 1903.1487873694425 km^2
+
+Beaufort county's Center of Mass is located at [32.38152562257752, -80.72855906010656]
+Beaufort county has an approximate surface area of 1903.1489220717435 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 91527 checks along the longitude axis
+And approximately 68594 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Berkeley county is 3182.2053904618087 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Berkeley county is 3182.2055737428586 km^2
+
+Berkeley county's Center of Mass is located at [33.19751678037081, -79.95071177544945]
+Berkeley county has an approximate surface area of 3182.205482102334 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 56422 checks along the longitude axis
+And approximately 41407 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Calhoun county is 1016.1949576946888 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Calhoun county is 1016.1949566481 km^2
+
+Calhoun county's Center of Mass is located at [33.67480729850689, -80.78020683508802]
+Calhoun county has an approximate surface area of 1016.1949571713944 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 118449 checks along the longitude axis
+And approximately 72157 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Charleston county is 2688.1344508105844 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Charleston county is 2688.1344126435565 km^2
+
+Charleston county's Center of Mass is located at [32.83406256720901, -79.95166723191949]
+Charleston county has an approximate surface area of 2688.1344317270705 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 50774 checks along the longitude axis
+And approximately 34483 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Cherokee county is 1029.1449987528838 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Cherokee county is 1029.1450043070895 km^2
+
+Cherokee county's Center of Mass is located at [35.048054844347476, -81.62029306103716]
+Cherokee county has an approximate surface area of 1029.1450015299865 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 62868 checks along the longitude axis
+And approximately 27921 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Chester county is 1518.1496142659134 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Chester county is 1518.1497319078032 km^2
+
+Chester county's Center of Mass is located at [34.691982261504776, -81.15949682902178]
+Chester county has an approximate surface area of 1518.1496730868585 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 78635 checks along the longitude axis
+And approximately 45126 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Chesterfield county is 2087.718682052897 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Chesterfield county is 2087.71869947305 km^2
+
+Chesterfield county's Center of Mass is located at [34.63960515591216, -80.1586715260851]
+Chesterfield county has an approximate surface area of 2087.7186907629734 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 66465 checks along the longitude axis
+And approximately 51630 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Clarendon county is 1802.3330231185078 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Clarendon county is 1802.3331415140567 km^2
+
+Clarendon county's Center of Mass is located at [33.665621477573225, -80.21652548070186]
+Clarendon county has an approximate surface area of 1802.3330823162823 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 83307 checks along the longitude axis
+And approximately 71040 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Colleton county is 2789.176627099265 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Colleton county is 2789.1768801684198 km^2
+
+Colleton county's Center of Mass is located at [32.86302583810154, -80.6664724206296]
+Colleton county has an approximate surface area of 2789.176753633842 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 63189 checks along the longitude axis
+And approximately 44894 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Darlington county is 1468.3768931835725 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Darlington county is 1468.3768901665246 km^2
+
+Darlington county's Center of Mass is located at [34.33220832264368, -79.95778225150305]
+Darlington county has an approximate surface area of 1468.3768916750487 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 56224 checks along the longitude axis
+And approximately 39081 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Dillon county is 1052.776391020583 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Dillon county is 1052.776396064863 km^2
+
+Dillon county's Center of Mass is located at [34.39143226579923, -79.37895489517847]
+Dillon county has an approximate surface area of 1052.776393542723 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 71117 checks along the longitude axis
+And approximately 51773 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Dorchester county is 1494.4428623579026 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Dorchester county is 1494.4427778532056 km^2
+
+Dorchester county's Center of Mass is located at [33.07940998188558, -80.4053441222607]
+Dorchester county has an approximate surface area of 1494.4428201055541 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 53100 checks along the longitude axis
+And approximately 44477 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Edgefield county is 1312.5481829359667 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% ************************************************** 100%
+
+
+Estimated area for Edgefield county is 1312.548109160418 km^2
+
+Edgefield county's Center of Mass is located at [33.77217809442454, -81.96660334566401]
+Edgefield county has an approximate surface area of 1312.5481460481924 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 65761 checks along the longitude axis
+And approximately 39747 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Fairfield county is 1839.2150617498733 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Fairfield county is 1839.2149604849194 km^2
+
+Fairfield county's Center of Mass is located at [34.39498294168071, -81.12123433177537]
+Fairfield county has an approximate surface area of 1839.2150111173964 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 75851 checks along the longitude axis
+And approximately 53200 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% ************************************************** 100%
+
+
+Estimated area for Florence county is 2081.995176107039 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Florence county is 2081.9952328203567 km^2
+
+Florence county's Center of Mass is located at [34.024219047967, -79.70280697827899]
+Florence county has an approximate surface area of 2081.9952044636975 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 67877 checks along the longitude axis
+And approximately 66987 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Georgetown county is 2262.7932808795927 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Georgetown county is 2262.7931326400007 km^2
+
+Georgetown county's Center of Mass is located at [33.43355531577343, -79.3322870829684]
+Georgetown county has an approximate surface area of 2262.7932067597967 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 61766 checks along the longitude axis
+And approximately 73145 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Greenville county is 2058.4901922525733 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Greenville county is 2058.4905534361396 km^2
+
+Greenville county's Center of Mass is located at [34.89392225857998, -82.37049016183319]
+Greenville county has an approximate surface area of 2058.4903728443564 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 46587 checks along the longitude axis
+And approximately 45638 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Greenwood county is 1199.5517158156324 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Greenwood county is 1199.5519234104431 km^2
+
+Greenwood county's Center of Mass is located at [34.15370879681107, -82.12591529626499]
+Greenwood county has an approximate surface area of 1199.5518196130379 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 60120 checks along the longitude axis
+And approximately 46998 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Hampton county is 1459.3467350839928 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Hampton county is 1459.3467175242567 km^2
+
+Hampton county's Center of Mass is located at [32.77606517226336, -81.1409555502775]
+Hampton county has an approximate surface area of 1459.3467263041248 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 79800 checks along the longitude axis
+And approximately 72743 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Horry county is 2969.542643108455 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% ************************************************** 100%
+
+
+Estimated area for Horry county is 2969.5427548230437 km^2
+
+Horry county's Center of Mass is located at [33.92120276630509, -78.99653404214284]
+Horry county has an approximate surface area of 2969.5426989657494 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 46389 checks along the longitude axis
+And approximately 71845 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Jasper county is 1745.2305049205834 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Jasper county is 1745.2305259245593 km^2
+
+Jasper county's Center of Mass is located at [32.435881420799994, -81.0313590923442]
+Jasper county has an approximate surface area of 1745.2305154225714 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 59395 checks along the longitude axis
+And approximately 54580 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Kershaw county is 1917.601803371794 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Kershaw county is 1917.601840399936 km^2
+
+Kershaw county's Center of Mass is located at [34.33856421487738, -80.59037057599114]
+Kershaw county has an approximate surface area of 1917.6018218858649 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 50108 checks along the longitude axis
+And approximately 61898 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lancaster county is 1438.1385651530745 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lancaster county is 1438.138794122699 km^2
+
+Lancaster county's Center of Mass is located at [34.68650747559366, -80.70534897858806]
+Lancaster county has an approximate surface area of 1438.1386796378868 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 67130 checks along the longitude axis
+And approximately 58239 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Laurens county is 1875.4930219788168 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Laurens county is 1875.493047599668 km^2
+
+Laurens county's Center of Mass is located at [34.483496986605594, -82.00586454685512]
+Laurens county has an approximate surface area of 1875.4930347892423 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 48072 checks along the longitude axis
+And approximately 41593 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lee county is 1065.1769862082367 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lee county is 1065.1769901495961 km^2
+
+Lee county's Center of Mass is located at [34.163184809673226, -80.2544896173523]
+Lee county has an approximate surface area of 1065.1769881789164 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 64688 checks along the longitude axis
+And approximately 54480 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lexington county is 1963.3274335915817 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Lexington county is 1963.3275502490917 km^2
+
+Lexington county's Center of Mass is located at [33.90208624824103, -81.2721273632641]
+Lexington county has an approximate surface area of 1963.3274919203368 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 54935 checks along the longitude axis
+And approximately 49131 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Mccormick county is 1020.0263324907348 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Mccormick county is 1020.0263111789274 km^2
+
+Mccormick county's Center of Mass is located at [33.89946938033767, -82.30981106413975]
+Mccormick county has an approximate surface area of 1020.0263218348312 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 44528 checks along the longitude axis
+And approximately 60632 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Marion county is 1279.9382506997908 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Marion county is 1279.9381401738835 km^2
+
+Marion county's Center of Mass is located at [34.07979830523517, -79.36250203377543]
+Marion county has an approximate surface area of 1279.9381954368373 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 48458 checks along the longitude axis
+And approximately 50856 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Marlboro county is 1257.2499576098523 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Marlboro county is 1257.249955758488 km^2
+
+Marlboro county's Center of Mass is located at [34.60178577706964, -79.67854676648788]
+Marlboro county has an approximate surface area of 1257.2499566841702 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 62810 checks along the longitude axis
+And approximately 46276 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Newberry county is 1676.8527822372303 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Newberry county is 1676.8530338802875 km^2
+
+Newberry county's Center of Mass is located at [34.289672214897585, -81.60013761277824]
+Newberry county has an approximate surface area of 1676.8529080587589 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 53052 checks along the longitude axis
+And approximately 58388 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Oconee county is 1743.651893167514 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Oconee county is 1743.6519896663021 km^2
+
+Oconee county's Center of Mass is located at [34.7534795010039, -83.06594723842646]
+Oconee county has an approximate surface area of 1743.651941416908 km^2
+--------------------------------------------------------------------------------
+
+
+This will require approximately 115200 checks along the longitude axis
+And approximately 53018 checks along the latitude axis
+
+
+Computing COM Lat...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Orangeburg county is 2923.139932055453 km^2
+
+
+Computing COM Long...
+0% *************************************************** 100% (for reference)
+0% *************************************************** 100%
+
+
+Estimated area for Orangeburg county is 2923.139778896411 km^2
+
+Orangeburg county's Center of Mass is located at [33.438890503852946, -80.80015012357435]
+Orangeburg county has an approximate surface area of 2923.1398554759317 km^2
+--------------------------------------------------------------------------------
